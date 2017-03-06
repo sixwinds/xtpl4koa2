@@ -1,7 +1,7 @@
 # xtpl4koa2
 A temp polyfill of xtpl for koa2. This my personl plugin. Offcial update please watch https://github.com/xtemplate/xtpl
 
-### Install:
+### Installation:
 ```bash
 npm install --save koa xtemplate xtpl
 ```
