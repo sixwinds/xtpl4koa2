@@ -1,0 +1,14 @@
+{
+  "name": "xtpl4koa2",
+  "version": "1.0.0",
+  "description": "xtpl for koa2",
+  "main": "index.js",
+  "repository": "https://github.com/sixwinds/xtpl4koa2.git",
+  "author": "Bernie <bernie.wangbj@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.1",
+    "xtemplate": "^4.6.0",
+    "xtpl": "^3.3.0"
+  }
+}
