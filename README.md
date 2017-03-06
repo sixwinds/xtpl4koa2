@@ -6,11 +6,11 @@ A temp polyfill of xtpl for koa2. This my personl plugin. Offcial update please 
 npm install --save koa xtemplate xtpl
 ```
 
-## Usage:
+### Usage:
 Please refer to repo/example
 ```
 var Koa = require( 'koa' );
-var xtpl = require( '../src/koa2' );
+var xtpl = require( '../src/koa2' ); // You can copy koa2.js to your own project and require it according to your project dir structure.
 var path = require( 'path' );
 
 // -------------------------- main -------------------------------
