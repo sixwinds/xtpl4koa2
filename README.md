@@ -8,7 +8,7 @@ npm install --save koa xtemplate xtpl
 
 ### Usage:
 Please refer to repo/example
-```
+```javascript
 var Koa = require( 'koa' );
 var xtpl = require( '../src/koa2' ); // You can copy koa2.js to your own project and require it according to your project dir structure.
 var path = require( 'path' );
